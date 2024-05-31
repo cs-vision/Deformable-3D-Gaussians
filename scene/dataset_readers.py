@@ -18,7 +18,7 @@ from scene.colmap_loader import read_extrinsics_text, read_intrinsics_text, qvec
 from utils.graphics_utils import getWorld2View2, focal2fov, fov2focal
 import numpy as np
 import json
-import imageio
+# import imageio
 from glob import glob
 import cv2 as cv
 from pathlib import Path
